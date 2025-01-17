@@ -1,0 +1,5 @@
+.nt_wp_custom_header,.nt_wp_custom_footer {
+    max-width: var(--wpb_header_footer_width, 1440px);
+    margin-left: auto;
+    margin-right: auto;
+}
